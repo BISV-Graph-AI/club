@@ -1,2 +1,2 @@
-# club
+# Club
 BISV Graph AI Club
