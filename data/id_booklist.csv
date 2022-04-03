@@ -1,88 +1,88 @@
 id,Requirement,Author,SchoolISBN13,ISBN13,SchoolISBN10,ISBN10,EditionCopyright,Publisher,Price,Title,Image
-9,7,8,1,5,6,5,7,7,5,0,9,1
-9,7,8,0,0,3,0,9,9,4,1,3,5
-9,7,8,0,0,3,0,9,4,1,9,2,4
-9,7,8,0,8,2,1,5,8,0,0,6,6
-9,7,8,0,8,7,7,7,9,6,3,8,1
-9,7,8,0,0,3,0,4,9,9,6,8,5
-9,7,8,0,9,7,7,8,1,0,5,9,8
-9,7,8,0,0,3,0,9,4,1,9,4,8
-9,7,8,0,8,2,1,5,8,0,0,7,3
-9,7,8,1,1,0,7,6,9,0,6,3,9
-9,7,8,0,0,7,8,9,3,3,1,4,1
-9,7,8,0,0,3,0,4,9,9,3,2,6
-9,7,8,0,0,3,0,4,9,9,5,7,9
-9,7,8,0,0,3,0,2,5,5,4,1,0
-9,7,8,0,8,2,1,5,8,0,0,8,0
-9,7,8,0,0,3,0,9,4,1,9,5,5
-9,7,8,1,1,0,7,6,9,9,0,0,7
-9,7,8,0,8,8,7,2,7,6,6,2,0
-9,7,8,0,1,3,3,6,4,7,4,9,5
-9,7,8,1,5,4,3,3,3,2,3,8,4
-9,7,8,1,5,4,3,3,4,1,4,4,7
-9,7,8,0,1,3,6,5,3,8,9,8,1
-9,7,8,0,8,2,1,5,8,0,0,9,7
-9,7,8,0,0,3,0,9,4,1,9,6,2
-9,7,8,1,6,8,0,0,5,7,9,9,7
-9,7,8,2,0,3,5,7,0,0,0,2,5
-9,7,8,0,0,7,1,4,2,1,6,3,8
-9,7,8,1,1,0,7,6,7,5,7,8,0
-9,7,8,1,1,0,7,0,9,8,2,4,4
-9,7,8,0,8,8,7,2,7,7,2,5,2
-9,7,8,0,8,8,7,2,7,7,0,5,4
-9,7,8,0,8,8,7,2,7,7,2,6,9
-9,7,8,1,6,8,0,0,4,3,1,9,8
-9,7,8,1,6,8,0,0,4,4,8,9,8
-9,7,8,0,0,7,6,6,8,1,0,2,0
-9,7,8,1,5,6,5,7,7,1,4,6,8
-9,7,8,0,1,3,4,6,8,5,7,6,2
-9,7,8,0,4,9,5,0,1,1,6,3,7
-9,7,8,1,4,6,4,1,0,9,4,7,8
-9,7,8,1,1,3,3,6,1,1,1,0,3
-9,7,8,0,1,3,2,8,5,4,5,8,0
-9,7,8,0,3,2,1,8,7,9,7,2,1
-9,7,8,1,1,1,8,5,4,7,8,7,8
-9,7,8,0,1,3,6,6,4,6,0,9,9
-9,7,8,1,3,1,9,2,1,3,5,2,7
-9,7,8,1,3,1,9,1,9,4,4,4,4
-9,7,8,1,4,2,1,7,8,5,1,0,3
-9,7,8,0,0,3,0,9,4,1,9,7,9
-9,7,8,1,6,8,0,0,5,8,4,3,7
-9,7,8,1,6,8,0,0,5,8,2,8,4
-9,7,8,1,6,8,0,0,5,8,3,4,5
-9,7,8,1,4,3,8,0,1,1,7,5,2
-9,7,8,0,8,8,7,2,7,7,8,6,3
-9,7,8,0,8,8,7,2,7,7,1,1,5
-9,7,8,0,8,8,7,2,7,7,6,9,6
-9,7,8,1,4,3,8,0,7,3,8,8,0
-9,7,8,1,6,8,0,0,5,8,2,1,5
-9,7,8,1,3,1,6,6,4,0,4,9,4
-9,7,8,0,8,0,6,1,4,2,3,2,6
-9,7,8,0,1,9,8,6,1,0,7,0,0
-9,7,8,0,0,6,0,9,3,5,0,6,1
-9,7,8,0,8,6,5,1,6,7,8,9,6
-9,7,8,0,8,6,5,1,6,7,5,2,0
-9,7,8,0,8,8,7,2,7,7,2,7,6
-9,7,8,0,8,8,7,2,7,7,3,9,9
-9,7,8,0,8,8,7,2,7,7,4,1,2
-9,7,8,0,8,8,7,2,7,7,3,8,2
-9,7,8,1,3,1,9,3,5,8,4,3,3
-9,7,8,0,8,8,0,8,0,1,4,4,7
-9,7,8,0,8,1,2,9,8,7,1,4,0
-9,7,8,0,3,5,7,4,3,6,3,2,5
-9,7,8,0,1,3,5,4,7,1,9,4,4
-9,7,8,1,2,8,4,1,5,5,6,1,7
-9,7,8,1,2,8,4,1,5,6,0,1,0
-9,7,8,1,2,8,4,1,5,5,6,5,5
-9,7,8,0,3,7,5,5,0,7,2,5,0
-9,7,8,1,9,0,9,4,1,4,9,4,5
-9,7,8,0,3,7,4,5,3,4,1,3,4
-9,7,8,0,2,3,1,1,4,2,9,3,9
-9,7,8,0,1,3,4,3,2,4,8,2,1
-9,7,8,0,1,3,4,3,2,4,9,1,3
-9,7,8,1,1,1,9,4,9,9,0,9,1
-9,7,8,0,8,1,5,3,4,2,2,0,5
-9,7,8,1,5,4,4,3,2,5,0,7,1
-9,7,8,3,1,1,0,2,9,5,8,9,4
-9,7,8,1,2,8,4,2,1,1,2,8,3
-9,7,8,1,2,8,4,4,0,3,0,2,2
+9781565775091,Required,"Hake, Stephen",978-1-56577-509-1,9781565775091,1-56577-509-0,1565775090,3RD 04,"Saxon Publishers, Inc.",117,Saxon Math 8/7: With Prealgebra (Hardback) 3RD 04,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1565775090.gif
+9780030994135,Required,Holt Rinehart,978-0-03-099413-5,9780030994135,0-03-099413-6,0030994136,2009,"Holt, Rinehart & Winston",30,Elements of Language: Introductory Course - Grammar Usage and Mechanics Language Skills 2009,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030994136.gif
+9780030941924,Required,Holt Rinehart,978-0-03-094192-4,9780030941924,0-03-094192-X,003094192X,2009,"Holt, Rinehart & Winston",87.25,"Elements of Language, Introductory Course 2009",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/003094192X.gif
+9780821580066,Required,"Shostak, Jerome",978-0-8215-8006-6,9780821580066,0-8215-8006-X,082158006X,2013,Sadlier-Oxford,14.75,"Vocabulary Workshop, Level A 2013",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001351718.gif
+9780877796381,Recommended,Merriam-Webster,978-0-87779-638-1,9780877796381,0-87779-638-6,0877796386,2006,"Merriam-Webster, Inc.",8.21,Merriam-Webster's Student Atlas 2006,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0877796386.gif
+9780030499685,Required,Holt Rinehart,978-0-03049-968-5,9780030499685,0-03-049968-2,0030499682,2007,"Holt, Rinehart & Winston",25,Holt Science and Technology: Human Body Systems and Health (Hardback) 2007,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030499682.gif
+9780977810598,Required,"Bishop, Mark",978-0-97781-059-8,9780977810598,0-9778105-9-3,0977810593,2009,Chiral Publishing Company,80,Introduction to Chemistry: Atoms First Version 2009,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M000976577.gif
+9780030941948,Required,Holt Rinehart,978-0-03094-194-8,9780030941948,0-03-094194-6,0030941946,2009,"Holt, Rinehart & Winston",65.5,"Elements of Language, Second Course 2009",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030941946.gif
+9780821580073,Required,"Shostak, Jerome",978-0-82158-007-3,9780821580073,0-8215-8007-8,0821580078,2013,Sadlier-Oxford,14.75,"Vocabulary Workshop, Level B: Enriched Edition 2013",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001294912.gif
+9781107690639,Required,Cambridge,978-1-10769-063-9,9781107690639,1-107-69063-3,1107690633,5TH 15,Cambridge University Press,37.25,Cambridge Latin Course: Unit 1 - North American Edition 5TH 15,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1107690633.gif
+9780078933141,Required,"Spielvogel, Jackson J.",978-0-07893-314-1,9780078933141,0-07-893314-5,0078933145,2013,Glencoe Publishing Co.,94.25,World History and Geography 2013,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001364611.gif
+9780030499326,Required,"Allen, Katy Z. / Berg, Linda R.",978-0-03049-932-6,9780030499326,0-03-049932-1,0030499321,2007,"Holt, Rinehart & Winston",18.75,"Holt Science & Technology: Microorganisms, Fungi, and Plants 2007",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030499321.gif
+9780030499579,Required,Holt Rinehart,978-0-03049-957-9,9780030499579,0-03-049957-7,0030499577,2007,"Holt, Rinehart & Winston",25,Holt Science and Technology: Animals (Hardback) 2007,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030499577.gif
+9780030255410,Required,Holt Rinehart Publishing Staff,978-0-03025-541-0,9780030255410,0-03-025541-4,0030255414,2005,"Holt, Rinehart & Winston",37.75,Science and Technology: Environmental Science (Hardback) 2005,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030255414.gif
+9780821580080,Required,"Shostak, Jerome",978-0-8215-8008-0,9780821580080,0-8215-8008-6,0821580086,2013,Sadlier-Oxford,14.75,"Vocabulary Workshop: Enriched Edition, Level C 2013",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0821580086.gif
+9780030941955,Recommended,Irvin / Warriner,978-0-03-094195-5,9780030941955,0-03-094195-4,0030941954,2009,"Holt, Rinehart & Winston",94.5,"Elements of Language, Third Course 2009",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030941954.gif
+9781107699007,Required,Cambridge University Press,978-1-107-69900-7,9781107699007,1-107-69900-2,1107699002,5TH 15,Cambridge University Press,37.25,"Cambridge Latin Course: Unit 2, North American Paperback Edition 5TH 15",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1107699002.gif
+9780887276620,Recommended,"Howard, Jiaying",978-0-88727-662-0,9780887276620,0-88727-662-8,0887276628,2009,Cheng & Tsui Co.,91,"Huanying: An Introduction to Chinese, Volume 1 - Text Only (Hardback) 2009",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0887276628.gif
+9780133647495,Required,"Hewitt, Paul G.",978-0-13-364749-5,9780133647495,0-13-364749-8,0133647498,2009,Prentice Hall School Division,142.75,Conceptual Physics - Text Only 2009,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0133647498.gif
+9781543332384,Required,"Blanco, Jose A.",978-1-5433-3238-4,9781543332384,1-5433-3238-2,1543332382,3RD 22,Vista Higher Learning,48,Descubre 1 - Activity Book 3RD 22,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M006156380.gif
+9781543341447,Required,"Blanco, Jose A.",978-1-5433-4144-7,9781543341447,1-5433-4144-6,1543341446,2022,Vista Higher Learning,160,Descubre 1 - With Access 2022,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M006225540.gif
+9780136538981,Required,"Taylor, Martha R. / Simon, Eric J.",978-0-13-653898-1,9780136538981,0-13-653898-3,0136538983,10TH 21,Pearson Education,74.99,Campbell Biology: Concepts and Connections 10TH 21,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002425877.gif
+9780821580097,Required,"Shostak, Jerome",978-0-8215-8009-7,9780821580097,0-8215-8009-4,0821580094,2012,Sadlier-Oxford,14.75,Vocabulary Workshop: Level D (Enriched Edition) 2012,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0821580094.gif
+9780030941962,Recommended,Holt Rinehart,978-0-03-094196-2,9780030941962,0-03-094196-2,0030941962,2009,"Holt, Rinehart & Winston",94.5,"Elements of Language, Fourth Course 2009",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0030941962.gif
+9781680057997,Required,"Blanco, Jose A.",978-1-68005-799-7,9781680057997,1-68005-799-5,1680057995,3RD 19,Vista Higher Learning,126.75,D'Accord Level 1 - With SuperSitePLUS Access 3RD 19,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002143118.gif
+9782035700025,Required,Larousse,978-2-03-570002-5,9782035700025,2-03-570002-7,2035700027,2011,Houghton Mifflin Harcourt,13.95,Larousse Concise French-English/English-French Dictionary 2011,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001159912.gif
+9780071421638,Required,"Stillman, David M. / Gordon, Ronni L.",978-0-07-142163-8,9780071421638,0-07-142163-7,0071421637,2004,McGraw-Hill Publishing Company,20,Blue Pocket Book of French Verbs 333 2004,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M000758320.gif
+9781107675780,Required,Cambridge,978-1-107-67578-0,9781107675780,1-107-67578-2,1107675782,5TH 15,Cambridge University Press,54.25,"Cambridge Latin Course: Unit 3, North American Edition 5TH 15",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1107675782.gif
+9781107098244,Recommended,Cambridge School Classics Project,978-1-107-09824-4,9781107098244,1-107-09824-6,1107098246,5TH 15,Cambridge University Press,79.5,"Cambridge Latin Course, Unit 3 - With Access 5TH 15",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1107098246.gif
+9780887277252,Recommended,"Howard, Jiaying",978-0-88727-725-2,9780887277252,0-88727-725-X,088727725X,2009,Cheng & Tsui Co.,97,"Huanying, Volume 2 - Text Only 2009",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/088727725X.gif
+9780887277054,Recommended,"Howard, Jiaying",978-0-88727-705-4,9780887277054,0-88727-705-5,0887277055,2009,Cheng & Tsui Co.,33,Huanying 1: An Invitation to Chinese - Workbook 2 2009,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0887277055.gif
+9780887277269,Recommended,"Howard, Jiaying",978-0-88727-726-9,9780887277269,0-88727-726-8,0887277268,2010,Cheng & Tsui Co.,32,Huanying 2: An Invitation to Chinese - Workbook 1 2010,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M000967754.gif
+9781680043198,Required,"Blanco, Jose A.",978-1-68004-319-8,9781680043198,1-68004-319-6,1680043196,2017,Vista Higher Learning,122.75,"Descubre, Level 1 2017",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001885180.gif
+9781680044898,Required,"Blanco, Jose A.",978-1-68004-489-8,9781680044898,1-68004-489-3,1680044893,2017,Vista Higher Learning,21.5,"Descubre, Nivel 1 - Cuaderno de Practica 2017",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001885348.gif
+9780076681020,Required,"Appleby, Joyce",978-0-07-668102-0,9780076681020,0-07-668102-5,0076681025,2018,McGraw-Hill Publishing Company,122,United States: History and Geography 2018,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002150445.gif
+9781565771468,Required,Saxon / Wang,978-1-56577-146-8,9781565771468,1-56577-146-X,156577146X,2ND 02,"Saxon Publishers, Inc.",156.75,Calculus: With Trigonometry and Analytic Geometry 2ND 02,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/156577146X.gif
+9780134685762,Required,"Bock, David E. / Bullard, Floyd / Velleman, Paul F. / De Veaux, Richard D.",978-0-13-468576-2,9780134685762,0-13-468576-8,0134685768,5TH 19,Pearson,246.75,Stats: Modeling the World 5TH 19,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0134685768.gif
+9780495011637,Required,"Stewart, James",978-0-495-01163-7,9780495011637,0-495-01163-0,0495011630,6TH 08,Brooks/Cole Publishing Co.,99,Multivariable Calculus 6TH 08,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0495011630.gif
+9781464109478,Required,"Hillis, David M.",978-1-4641-0947-8,9781464109478,1-4641-0947-8,1464109478,2ND 14,W.H. Freeman,224.25,Principles of Life - Text Only 2ND 14,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1464109478.gif
+9781133611103,Required,"Zumdahl, Steven S. / Zumdahl, Susan A.",978-1-133-61110-3,9781133611103,1-133-61110-9,1133611109,9TH 14,Brooks/Cole Publishing Co.,349.49,"Chemistry, AP Edition (High School) 9TH 14",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001341959.gif
+9780132854580,Required,"Hieggelke, C. J.",978-0-13-285458-0,9780132854580,0-13-285458-9,0132854589,2015,"Prentice Hall, Inc.",36,TIPERs: Sensemaking Tasks for Introductory Physics 2015,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0132854589.gif
+9780321879721,Required,"Knight, Randall D.",978-0-321-87972-1,9780321879721,0-321-87972-4,0321879724,3RD 15,Benjamin-Cummings Publishing Co.,30,College Physics (Hardback) 3RD 15,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0321879724.gif
+9781118547878,Required,"Halliday, David / Resnick, Robert / Walker, Jearl",978-1-118-54787-8,9781118547878,1-118-54787-X,111854787X,10TH 14,John Wiley & Sons,112.5,Fundamentals of Physics Extended 10TH 14,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001742032.gif
+9780136646099,Required,"Taylor, Martha R.",978-0-13-664609-9,9780136646099,0-13-664609-3,0136646093,10TH 21,"Prentice Hall, Inc.",214.5,Campbell Biology (NASTA Edition) 10TH 21,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002351326.gif
+9781319213527,Required,"Jacobus, Lee A.",978-1-319-21352-7,9781319213527,1-319-21352-9,1319213529,11TH 20,MPS (Course Content Delivery),57.99,World Of Ideas 11TH 20,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002354982.gif
+9781319194444,Required,"Jacobus, Lee A.",978-1-319-19444-4,9781319194444,1-319-19444-3,1319194443,11TH 20,Bedford Books,91,World of Ideas: Essential Readings for College Writers 11TH 20,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002229653.gif
+9781421785103,Required,"Shostak, Jerome",978-1-4217-8510-3,9781421785103,1-4217-8510-2,1421785102,2018,Sadlier-Oxford,14.75,"Vocabulary Workshop: Achieve, Level E",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001993861.gif
+9780030941979,Recommended,"Warriner, John E.",978-0-03-094197-9,9780030941979,0-03-094197-0,0030941970,2009,"Holt, Rinehart & Winston",97,Elements of Language: 5th Course 2009,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M000958835.gif
+9781680058437,Required,"Blanco, Jose A.",978-1-68005-843-7,9781680058437,1-68005-843-6,1680058436,2019,Vista Higher Learning,126.75,D'accord Level 3 - With Supersite Plus Access 2019,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002143347.gif
+9781680058284,Required,"Blanco, Jose A.",978-1-68005-828-4,9781680058284,,,2019,Vista Higher Learning,,D'Accord 3 - Text Only 2019,
+9781680058345,Required,"Blanco, Jose A.",978-1-68005-834-5,9781680058345,,,2019,Vista Higher Learning,,D'Accord Level 3 - SuperSite Plus Access 2019,
+9781438011752,Required,"Kurbegov, Eliane / Weiss, Edward",978-1-4380-1175-2,9781438011752,1-4380-1175-X,143801175X,3RD 19,Barron's Educational Series,26.99,Barron's AP French Language and Culture 3RD 19,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/143801175X.gif
+9780887277863,Recommended,"Howard, Jiaying",978-0-88727-786-3,9780887277863,0-88727-786-1,0887277861,2012,Cheng & Tsui Co.,83,"Huanying, Volume 4 - Text Only 2011",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001133657.gif
+9780887277115,Recommended,"Howard, Jiaying",978-0-88727-711-5,9780887277115,0-88727-711-X,088727711X,2012,Cheng & Tsui Co.,37,"Huanying, Volume 4, Part 1 - Workbook 2012",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001133659.gif
+9780887277696,Recommended,"Howard, Jiaying",978-0-88727-769-6,9780887277696,0-88727-769-1,0887277691,2012,Cheng & Tsui Co.,37,"Huanying, Volume 4, Part 2 - Workbook 2012",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001133662.gif
+9781438073880,Recommended,"Shen, Yan",978-1-4380-7388-0,9781438073880,1-4380-7388-7,1438073887,2ND 14,Barron's Educational Series,10,Barron's AP Chinese Language and Culture with MP3 CD 2ND 14,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1438073887.gif
+9781680058215,Required,"Blanco, Jose A.",978-1-68005-821-5,9781680058215,1-68005-821-5,1680058215,2019,Vista Higher Learning,"126,75",D'accord 2 - With SuperSite Plus and vText 2019,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002143313.gif
+9781316640494,Required,Cambridge,978-1-316-64049-4,9781316640494,1-316-64049-3,1316640493,5TH 16,Cambridge University Press,20,Cambridge Latin: Elevate 1-4 1-Year 5TH 16,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001994648.gif
+9780806142326,Required,"Garrison, Daniel H.",978-0-8061-4232-6,9780806142326,0-8061-4232-4,0806142324,4TH 12,University of Oklahoma Press,22.5,Student's Catullus 4TH 12,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0806142324.gif
+9780198610700,Recommended,"Morwood, James",978-0-19-861070-0,9780198610700,0-19-861070-X,019861070X,2005,Oxford University Press,16.46,Oxford Latin Desk Dictionary 2005,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/019861070X.gif
+9780060935061,Required,"Wheelock, Frederick M.",978-0-06-093506-1,9780060935061,0-06-093506-5,0060935065,2ND 01,Harper Resource,19.99,Wheelock's Latin Reader 2ND 01,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0060935065.gif
+9780865167896,Required,"Boyd, Barbara Weiden",978-0-86516-789-6,9780865167896,0-86516-789-3,0865167893,2013,"Bolchazy-Carducci Publishers, Inc.",31,Vergil's Aeneid: Expanded Collection 2013,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0865167893.gif
+9780865167520,Required,"Mueller, Hans-Friedrich",978-0-86516-752-0,9780865167520,0-86516-752-4,0865167524,2012,"Bolchazy-Carducci Publishers, Inc.",43,Caesar: Selections from his Commentarii De Bello Gallico 2012,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0865167524.gif
+9780887277276,Recommended,"Howard, Jiaying",978-0-88727-727-6,9780887277276,0-88727-727-6,0887277276,2010,Cheng & Tsui Co.,32,Huanying 2: An Invitation to Chinese Workbook 2 2010,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M000967752.gif
+9780887277399,Recommended,"Howard, Jiaying",978-0-88727-739-9,9780887277399,0-88727-739-X,088727739X,2011,Cheng & Tsui Co.,80,"Huanying, Volume 3 - Text Only 2011",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001013434.gif
+9780887277412,Recommended,"Howard, Jiaying",978-0-88727-741-2,9780887277412,0-88727-741-1,0887277411,2010,Cheng & Tsui Co.,38,"Huanying, Volume 3, Part 1 - Workbook 2010",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001013436.gif
+9780887277382,Recommended,"Howard, Jiaying",978-0-88727-738-2,9780887277382,0-88727-738-1,0887277381,2011,Cheng & Tsui Co.,100,"Huanying Textbook, Volume 4 2011",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0887277381.gif
+9781319358433,Required,"Abernathy, Scott F.",978-1-319-35843-3,9781319358433,1-319-35843-8,1319358438,2021,MPS (Course Content Delivery),104.99,Presidential Election Update American Government: Stories of a Nation: For the AP Course,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M006073360.gif
+9780880801447,Required,Delegates of the Constitutional Convention,978-0-88080-144-7,9780880801447,0-88080-144-1,0880801441,2016,National Center for Constitutional Studies,1,Pocket Constitution (Text from the U.S. Bicentennial Commission Edition) 2016,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0880801441.gif
+9780812987140,Required,"Kuo, Michelle",978-0-8129-8714-0,9780812987140,0-8129-8714-4,0812987144,2018,"Random House, Inc.",17,"Reading with Patrick: A Teacher, a Student, and a Life-Changing Friendship 2018",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002168146.gif
+9780357436325,Required,"Miller, Tyler / Spoolman, Scott",978-0-357-43632-5,9780357436325,0-357-43632-6,0357436326,2019,National Geographic Learning,196.75,"Exploring Environmental Science for AP, Updated 2019",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M005459095.gif
+9780135471944,Required,"Reges, Stuart / Stepp, Marty",978-0-13-547194-4,9780135471944,0-13-547194-X,013547194X,5TH 20,Pearson,106.75,Building Java Programs - With Access 5TH 20,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/013547194X.gif
+9781284155617,Recommended,"Dale, Nell / Lewis, John",978-1-284-15561-7,9781284155617,1-284-15561-7,1284155617,7TH 20,Jones & Bartlett Publishers,150,Computer Science Illuminated - With Access 7TH 20,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1284155617.gif
+9781284156010,Recommended,,978-1-284-15601-0,9781284156010,,,,,,Computer Science Illuminated - Text Only 7TH 20,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002252473.gif
+9781284155655,Recommended,,978-1-284-15565-5,9781284155655,,,,,,Computer Science Illuminated - Access 7TH 20,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/128415565X.gif
+9780375507250,Required,"Mitchell, David",978-0-375-50725-0,9780375507250,0-375-50725-6,0375507256,2004,"Random House, Inc.",18,Cloud Atlas 2004,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0375507256.gif
+9781909414945,Recommended,3dtotal Pub.,978-1-909414-94-5,9781909414945,1-909414-94-8,1909414948,2ND 20,3dtotal.com,52,Beginner s Guide to Digital Painting in Photoshop 2ND 20,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1909414948.gif
+9780374534134,Required,"Thomson, David",978-0-374-53413-4,9780374534134,0-374-53413-6,0374534136,2012,"Farrar, Straus and Giroux, Inc.",18,Big Screen 2012,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0374534136.gif
+9780231142939,Optional,"Sikov, Ed",978-0-231-14293-9,9780231142939,0-231-14293-5,0231142935,2010,Columbia University Press,34,Film Studies 2010,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0231142935.gif
+9780134324821,Required,"Mariotti, Steve",978-0-13-432482-1,9780134324821,0-13-432482-X,013432482X,12TH 17,National Foundation for Teaching Entrepreneurship,50,Entrepreneurship: Owning Your Future 12TH 17,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/013432482X.gif
+9780134324913,Required,"Mariotti, Steve",978-0-13-432491-3,9780134324913,0-13-432491-9,0134324919,12TH 17,Pearson,40,"Entrepreneurship: Owning Your Future, Workbook Student Edition (High School) 12TH",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M001899353.gif
+9781119499091,Required,"Horstmann, Cay",978-1-119-49909-1,9781119499091,1-119-49909-7,1119499097,7TH 19,John Wiley & Sons,112.5,"Big Java: Early Objects, Enhanced 7TH 19",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M002295662.gif
+9780815342205,Recommended,"Weinberg, Robert A.",978-0-8153-4220-5,9780815342205,0-8153-4220-9,0815342209,2ND 14,Garland Science,227,Biology of Cancer - With DVD and Poster 2ND 14,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0815342209.gif
+9781544325071,Required,"Payne, Brian",978-1-5443-2507-1,9781544325071,1-5443-2507-X,154432507X,2ND 19,"Sage Publications, Inc. (cc)",61,Introduction to Criminal Justice Interactive eBook - Access 2ND 19,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M003918850.gif
+9783110295894,Required,"Benvenuto, Mark Anthony",978-3-11-029589-4,9783110295894,3-11-029589-X,311029589X,2014,"Walter Degruyter, Inc.",89,Industrial Chemistry 2014,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/311029589X.gif
+9781284211283,Required,"Bear, Mark",978-1-284-21128-3,9781284211283,1-284-21128-2,1284211282,4TH 16,Jones & Bartlett Publishers,136,"Neuroscience: Exploring the Brain, Enhanced Edition - With Access 4TH 16",https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M005052661.gif
+9781284403022,Optional,"Bear, Mark F.",978-1-284-40302-2,9781284403022,1-284-40302-5,1284403025,4TH 16,Jones & Bartlett Publishers,88.5,Neuroscience 4TH 16,https://bookinfo.mbsdirect.net/TextbookInfo/Covers/M004366182.gif
